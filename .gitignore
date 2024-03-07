@@ -1,3 +1,6 @@
+*.ipynb
+!assignment3_AbuShawarib_Ahmad.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
